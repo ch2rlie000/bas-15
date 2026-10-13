@@ -1,4 +1,4 @@
-# Ballistic Audio Synthesizer ver1.5
+# Ballistic Audio Synthesizer v1.5
 
 <!-- TODO: replace with a 5–15s screen capture of the UI + a link to the live build -->
 <!-- e.g. [**▶ Live build**](https://<your-url>) · [**▶ Demo video**](https://youtu.be/<id>) -->
