@@ -183,7 +183,7 @@ README.md     this file
 
 ## Credits
 
-Designed and built by **[@ch2rlie000](https://github.com/ch2rlie000)**.
+Designed and built by **[@ch2rlie000](https://github.com/ch2rlie000)** though ALL advanced mathematics & non-linear equations governing weapon physics were implemented with the aid of **Qwen 3.8 Flash (https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (VSCode + OpenCode), I am NOT a mathmagician & still very much so learning, but this was intended to be made with sophistication, deep understanding & as a huge learning curve for me.
 
 ---
 
