@@ -1,3 +1,5 @@
+<img width="1357" height="815" alt="Screenshot_5" src="https://github.com/user-attachments/assets/b170bdec-50ab-4bcd-9ff7-ef665beda4f2" />
+
 # Ballistic Audio Synthesizer v1.5
 
 <!-- TODO: replace with a 5–15s screen capture of the UI + a link to the live build -->
