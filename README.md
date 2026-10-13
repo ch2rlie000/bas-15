@@ -185,4 +185,8 @@ README.md     this file
 
 Designed and built by **[@ch2rlie000](https://github.com/ch2rlie000)**.
 
-<!-- TODO: add licence (MIT / GPL / etc.) before publishing -->
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE).
